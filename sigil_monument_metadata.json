@@ -1,0 +1,8 @@
+{
+  "name": "Sigil's Monument",
+  "description": "Sigil's Artifacts, up on the Monument Marketplace!",
+  "image": "https://pbs.twimg.com/profile_images/1503644192580415488/LuUawkd0_400x400.jpg",
+  "external_link": "https://monument.app/0xcb0d4edc8461bea356be8c5ba05052529853c622",
+  "seller_fee_basis_points": 100,
+  "fee_recipient": "0x64C5ad0E2e421Cad1529bFa8a1Ea4D69B4648409"
+}
