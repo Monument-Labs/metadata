@@ -1,8 +1,8 @@
 {
   "name": "Monument Artifacts",
-  "description": "Mint your milestones, on the Blockchain",
+  "description": "Tokenize your progress, Build your Monument",
   "image": "https://pbs.twimg.com/profile_images/1460721641084768260/nbMf9_r1_400x400.jpg",
   "external_link": "https://monument.app",
   "seller_fee_basis_points": 100,
-  "fee_recipient": "0x64C5ad0E2e421Cad1529bFa8a1Ea4D69B4648409"
+  "fee_recipient": "0xdC3b599c725d0F4c80650f3Bc91e8974705BC208"
 }
