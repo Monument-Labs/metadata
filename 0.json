@@ -1,0 +1,22 @@
+{
+  "name": "I was offered $100,000 for 1% of BitSwap",
+  "description": "From simply creating a post asking for advice on the Thiel Fellowship, Dharmesh Shah (https://twitter.com/dharmesh), the founder of HubSpot, offered me $100,000 for 1% of BitSwap 🤯 http://bitswap.network/. Wow. That puts BitSwap at a $10 million valuation. Though I have a lot to consider if we begin to raise a seed round like incorporating the company and getting a bank account which is hard as a 17 year old Canadian minor. \r\n\r\nI recently got into the Management & Technology program at the University of Pennsylvania (dual degree in Wharton x Eng) though heavily considering taking a gap year to build out BitSwap, which is currently a 10 person company that I'm paying out of pocket in ethereum. Honestly, I think this is the right way to go. Planning to move into a place in DT Toronto with my cofounders Aryan & Alex. Worst case scenario I go back to Penn :) Yeet let's get this bread.\r\n\r\nEssay on maximizing serendipity: https://perell.com/essay/serendipity/\r\n\r\nOriginal Post: \r\nhttps://bitclout.com/posts/5361b6ea54e778c6d6b2c4a8f7b00da8dd7eb287ecb7138807e4d64a3dcaa966 \r\n\r\nYouTube Video: https://www.youtube.com/watch?v=TnnDIcFdT6Y",
+  "image": "ar://F6MTVqlAbm2arapPoVCgkV3uRQ7rpwpGBfY2QZf-UoY",
+  "external_url": "https://monument.app",
+  "attributes": [
+    {
+      "display_type": "date",
+      "trait_type": "Date",
+      "value": 1620345600000
+    },
+    {
+      "properties": {
+        "array_property": {
+          "name": "Tags",
+          "value": "Serendipity,Investment",
+          "class": "emphasis"
+        }
+      }
+    }
+  ]
+}
