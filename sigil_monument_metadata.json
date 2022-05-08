@@ -1,8 +1,8 @@
 {
-  "name": "Sigil's Monument",
-  "description": "Sigil's Artifacts, up on the Monument Marketplace!",
+  "name": "Building Monument by Sigil.tv",
+  "description": "I’m Sigil, a crypto creator who flew to silicon valley to build Monument instead of going to college. The best part is, I vlog & tokenize each moment of my startup journey at sigil.tv, building the first Monument! Monument empowers creators to be backed through their stories. Creators share Artifacts of the trials, triumphs, and tribulations of their story, building Monuments of their journey. ",
   "image": "https://pbs.twimg.com/profile_images/1503644192580415488/LuUawkd0_400x400.jpg",
-  "external_link": "https://monument.app/0xcb0d4edc8461bea356be8c5ba05052529853c622",
-  "seller_fee_basis_points": 100,
+  "external_link": "https://www.sigil.tv/",
+  "seller_fee_basis_points": 250,
   "fee_recipient": "0xdC3b599c725d0F4c80650f3Bc91e8974705BC208"
 }
